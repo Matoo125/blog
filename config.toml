@@ -1,4 +1,4 @@
 baseURL = "https://thinkingbrain.blog/"
 languageCode = "en-us"
 title = "Thinking Brain"
-theme = "hugo-paper"
+theme = "basics"
