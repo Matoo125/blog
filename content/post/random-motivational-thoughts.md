@@ -1,12 +1,12 @@
 ---
-title: "About better world and self"
+title: "Random motivational thoughts"
 date: 2019-03-12T13:50:36+01:00
 draft: false
 ---
 
-[epistemic status: random mix of emotions, no hard science]
+[epistemic status: random mix of emotions]
 
-[This is a short motivational argument for creating a better world and self-improvement]
+[This is a short mix of thoughts about the world and self-improvement]
 
 Have you ever felt, that you can be better? Of course, everyone does, it’s part of human experience. Beings with ability to improve. It’s different from training a dog to follow your command, maybe not completely, but to a large extent. 
 
