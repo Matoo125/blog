@@ -1,5 +1,5 @@
 ---
-title: "The way to live"
+title: "The way of knowledge"
 date: 2019-03-18T13:50:36+01:00
 draft: false
 ---
