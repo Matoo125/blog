@@ -1,5 +1,5 @@
 ---
-title: "About better world and self
+title: "About better world and self"
 date: 2019-03-12T13:50:36+01:00
 draft: false
 ---
