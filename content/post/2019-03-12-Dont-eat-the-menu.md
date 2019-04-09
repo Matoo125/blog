@@ -6,7 +6,7 @@ draft: false
 
 [note: If the idea that map is not a territory is already intuitive to you, reading this might bring you nothing. Those who are new to explicit thinking about mental models and rationality might find this useful]
 
-[note: Obviously, this text is simplification of reality, and I’m to some extent aware of how exactly. Please let me know if you know have an idea how it can be improved.]
+[note: Obviously, this text is simplification of reality. Please let me know if you have an idea how to make it more useful.]
 
 [note: Map is not the territory, menu is not the meal, photograph is not the thing photographed, word is not the thing it describes, the thing is not the category to which it belongs, model is not the thing modeled are all metaphorical ways to say abstraction (or belief) is not reality.]
 
@@ -26,9 +26,9 @@ So models are useful when they lead to better results than alternatives. And the
 
 People are generally doing what they consider to be the best thing, based on their current goals and values. Not necessarily the best possible thing to achieve their goals and values. With improved understanding of the world (better model used in specific situation), action can become more optimal.
 
-Models are heavily context dependent. In the past, colorful juicy items with pleasant aroma, hanging from a tree branches often signalized nutrition and survival, so we developed mechanisms to gather and eat them. Today following that guideline would bring us early death and obesity. It's like using map of ancient Greece in modern day Singapore. So we draw a map which better describes the territory we need to navigate in, and decide to read labels and eat only food without added sugar, or whatever diet you believe will keep you alive throughout this century.
+Models are heavily context dependent. In the past, colorful juicy items with pleasant aroma, hanging from a tree branches often signalized nutrition and survival, so we developed mechanisms to gather and eat them. Today following that guideline would bring us early death and obesity. It's like using map of ancient Greece in modern day Singapore. So we draw a map which better describes the territory we need to navigate in, and decide to read labels and eat only food without added sugar, or whatever diet is believed to keep you alive throughout this century.
 
-Once we agree that all models are wrong (*not describing reality perfectly)* we can call it a day, go to sleep with smiles on our faces, celebrate for a week with live music, dancing on the roofs, setting off fireworks, reading books, discussing ethics or however one likes to celebrate, and afterwards if we still constructively talk about models, not separating ourselves into incompatible fractions because of our absolute believes (or our complex believes and absolute believes of the others), we can celebrate again. 
+Once we agree that all models are wrong (read - not describing reality perfectly) we can call it a day, go to sleep with smiles on our faces, celebrate for a week with live music, dancing on the roofs, setting off fireworks, reading books, discussing ethics or however one likes to celebrate, and afterwards if we still constructively talk about models, not separating ourselves into incompatible fractions because of our absolute believes (or our complex believes and absolute believes of the others), we can celebrate again. 
 
 If you are willing to play a game of thinking about and improving mental models. There are two basic questions you want to answer. 1. Will this help me make a better decisions? (or is it in some way better than my current mental models?) 2. Can I improve this mental model in any meaningful way? (do I have mental models, that lead to better outcomes, and am I able to offer them?)
 

@@ -10,4 +10,7 @@ Animals have many goals in the same way as animals do, and on top of that some o
 
 We created an environment where it's easy, because we are really surprisingly good goal achievers. We can get everything necessary without really trying. After achieving all of this, we didn't stop, but set different goals, since we like doing stuff, improving things and optimizing the world around. 
 
-Some people are not aware, they have goals (at least they said it to me), many people are unsure about their goals and few people actually thought hard about setting the right goals. 
+Some people are not aware, they have goals, at least they said it to me, many are unsure about their goals and few actually thought hard about setting the right goals. 
+
+
+
