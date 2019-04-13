@@ -48,21 +48,21 @@ Easier said than done, I can attest, having trouble to internalize it even when 
 
 Clearly one could find many benefits to being unmistakable right and overconfident in certain aspects. It feels good to simplify the world and maybe the only way to completely understand something is to create an illusion of understanding and believe it completely. We want to feel good about ourselves, it gives us motivation to continue living. If we accept all that uncertainty and never find absolute conclusion that our actions were good, why would we act at all? Why wouldn’t we add ourselves to the number of suicides?
 
-It follows general pattern of learning about a problem:
-I don’t know there is a problem. 
-I know about existence of the problem, but nothing specific
-There is a problem and It’s either A or B
-I know the solution to the problem is A not B
-What if it’s B? Is it even possible?
-What if it’s A, B, not A and not B all at the same time
-Oh no there is whole spectrum of possibilities between the A and B and all around them.
+- It follows general pattern of learning about a problem:
+- I don’t know there is a problem. 
+- I know about existence of the problem, but nothing specific
+- There is a problem and It’s either A or B
+- I know the solution to the problem is A not B
+- What if it’s B? Is it even possible?
+- What if it’s A, B, not A and not B all at the same time
+- Oh no there is whole spectrum of possibilities between the A and B and all around them.
 
-So as you already expect, after looking into a problem, you will find out it's complicated. This doesn't mean solution is impossible to know, or that it's exactly in the middle. It would be another extreme. You don't need to smoke or drink moderately, or kill people moderately. We might decide that killing people is bad in 99.9% of cases or 99.99% of cases, but 100% would be stupid, keeping space for unexpected possibilities is helpful. 
+So as you already expect, after looking into a problem, you will find out it's complicated. This doesn't mean the solution is impossible to know, or that it's exactly in the middle. It would be another extreme. You don't need to smoke or drink moderately, or kill people moderately. We might decide that killing people is bad in 99.9% of cases or 99.99% of cases, but 100% would be stupid, keeping space for unexpected possibilities is helpful. 
 
-What is someone really suffers, and medicine is unable to help? Or someone else is planning to kill millions or people, cause nuclear war, or just badly injure few and it can be prevented by killing him first? (since there is no time for slower action). 
+What if someone really suffers, and medicine is unable to help? Or someone else is planning to kill millions or people, cause nuclear war, or just badly injure few and it can be prevented by killing him first? (since there is no time for deliberate action). 
 
-Existence of edge possibilities doesn't negate the fact that correct answer is much closer on one side. In a black and white spectrum it might be for all practical purposes totally black. Try to mix 99 dl of black color and 1 dl of white and enjoy the greyness. Wouldn't you be mad after ordering gray shoes and then received some black thing with mentioned color proportion (imagine you care about the color of your shoes for a moment). At that time, arguments as "nothing is black and white anyway" would fall short of being convincing. 
+Existence of edge possibilities doesn't negate the fact that correct answer is much closer on one side. In a black and white spectrum it might be for all practical purposes totally black. Try to mix 99 dl of black color and 1 dl of white and enjoy the greyness. Wouldn't you be mad you ordered gray shoes and then received some black thing with mentioned color proportion (imagine you care about the color of your shoes for a moment). At that time, arguments as "nothing is black and white anyway" would fall short of being convincing. 
 
 Is life worth living? Of course it is, look around, people are either happy, looking forward to something, aiming for unexplainable goals they want to achieve, enjoy many moments and would really prefer those moments to exists and so on. Is it perfect no matter what? No. Are there exceptions? Yes. Does the existence of exceptions negates everything? No. 
 
-Now it's time for me to go enjoy life.
+Now it's time for me to go enjoy life. And for you too unless you feel like reading one more post :)

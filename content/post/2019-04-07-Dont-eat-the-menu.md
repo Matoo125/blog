@@ -8,7 +8,7 @@ draft: false
 
 [note: Obviously, this text is simplification of reality. Please let me know if you have an idea how to make it more useful.]
 
-[note: Map is not the territory, menu is not the meal, photograph is not the thing photographed, word is not the thing it describes, the thing is not the category to which it belongs, model is not the thing modeled are all metaphorical ways to say abstraction (or belief) is not reality.]
+[note: Map is not the territory, menu is not the meal, photograph is not the thing photographed, word is not the thing it describes, the thing is not the category to which it belongs, model is not the thing being modeled, are all metaphorical ways to say abstraction (or belief) is not reality.]
 
 When you try to explain some complicated idea, such as benefits of creating models of charity effectiveness, or benefits of investing instead of keeping all your assets in the bank, or why there are better things to do than arguing about the newest conspiracy theory, you are at risk of at least one type of typical backslash. 
 
@@ -45,3 +45,9 @@ The point is that changing believes is hard, so we should make an effort to lear
 Accept that you are wrong, seek the advice of those that are less wrong, give the advice to those that are in some way more wrong. And this is how we can create feedback loop to collective and personal wisdom, flying pigs and rainbows in the air. 
 
 *All models are wrong but some are useful* - George Box
+
+
+
+[after: If you see an picture of a (fe)male model make sure your mental model understands, it's just a picture not a real model, but it was created thanks to many models, including model of human desires and unconscious, model of expected audience and best marketing practices, mathematical models behind the camera, computer, printer and software. Our model of electricity, that of capitalism and taxes. 
+
+All of those things created a world where a model can model and you can create a model of the world where you see the the result of this complex multi-leveled modeling, recognize the models and see the model at the other side for what (s)he is. A human just like you, making some money and being unsure which mental model is the best.]
