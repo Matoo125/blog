@@ -19,9 +19,9 @@ When this conscious self (or I) is not satisfied with reality a suffering arises
 
 There is famous photograph of an Vietnamesse monk who burned himself alive while meditating calmly, his consciousness at peace. This is what happens when you control your consciousness, you have a choice to respond to a stimulus, even if it's extremely strong, such as your whole body on fire. People without long training are not able to achieve this level of equanimity. It's enough to look at others who self-immolated, most likely running around or rolling on the ground. 
 
-Burned animal would behave as an untrained human. Panicking and unable to control itself. But the difference is, some people would say, that it only acts on the strongest stimulus, without consciousness that can make choice if trained. It can be trained, but only mechanically, responding to rewards and punishments. While humans posses this soul-ish like consciousness that oversees the whole process underneets and has basically infinite value. 
+Burned animal would behave as an untrained human. Panicking and unable to control itself. But the difference is, some people would say, that it only acts on the strongest stimulus, without consciousness that can make choice if trained. It can be trained, but only mechanically, responding to rewards and punishments. While humans posses this soul-ish like consciousness that oversees the whole process underneath and has basically infinite value. 
 
-This is becomming overly complicated
+This is becoming overly complicated, for most people it's enough to have a dog to start believing in animal consciousness. 
 
 (?I'll narrow my focus to pain caused by damage to body and inability to fulfill natural needs.)
 
