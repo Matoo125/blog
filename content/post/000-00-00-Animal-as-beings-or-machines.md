@@ -11,7 +11,19 @@ At first, let me clear few things out. Animals are not humans, but humans are an
 
 My claim is that pain is an objective phenomenon, even though we have hard time to measure it as such. What we often do with humans is that we ask them "How painful does it feels on a scale 0 to 10?" they answer "I guess it's about 6 and a half" and that's about it. And animals have hard time answering this type of linguistic questions, so you know, screw them and their experience. Our inability to measure pain directly does not make it go away. 
 
-There are good reasons to dismiss objective existence of the pain. For example placebos, hypnosis or acupuncture might decrease it. Cultural differences are influencing our pain threshold and tolerance. Our expectations also play a role. And most importantly people perceive standard stimulus differently. To avoid controversies I'll narrow my focus to pain caused by damage to body and inability to fulfill our natural needs.
+There are good reasons to dismiss objective existence of the pain. For example placebos, hypnosis or acupuncture might decrease it. Cultural differences are influencing our pain threshold and tolerance. Our expectations also play a role. And most importantly people perceive standard stimulus differently. 
+
+Pain itself might not be so bad by itself as the suffering it creates. It's just a signal that something is not right stored in dedcated part of the brain to avoid repetative harmful behaviour. Evolutionary feature, helping animals not to bleed out and pause before our bones are broken. It's something in the real world we can define quite clearly. But suffering is much more abstract, there has to be this perceiving entity that is conscious of the pain and doesn't want it to be present. 
+
+When this conscious self (or I) is not satisfied with reality a suffering arises. So when people subscribe to Descartian believes of non-human animals as automata - machines that are quite similar to us, but without the conscious observer with magical rational powers, it is sensible to believe they cannot suffer. They can feel pain, but not the suffering, similar to experienced meditators, who after decades of practice silenced the talkshow in their heads and are preceiving the reality of the present moment as it is. 
+
+There is famous photograph of an Vietnamesse monk who burned himself alive while meditating calmly, his consciousness at peace. This is what happens when you control your consciousness, you have a choice to respond to a stimulus, even if it's extremely strong, such as your whole body on fire. People without long training are not able to achieve this level of equanimity. It's enough to look at others who self-immolated, most likely running around or rolling on the ground. 
+
+Burned animal would behave as an untrained human. Panicking and unable to control itself. But the difference is, some people would say, that it only acts on the strongest stimulus, without consciousness that can make choice if trained. It can be trained, but only mechanically, responding to rewards and punishments. While humans posses this soul-ish like consciousness that oversees the whole process underneets and has basically infinite value. 
+
+This is becomming overly complicated
+
+(?I'll narrow my focus to pain caused by damage to body and inability to fulfill natural needs.)
 
 Animals are giving us plenty of signals we can measure. 
 
