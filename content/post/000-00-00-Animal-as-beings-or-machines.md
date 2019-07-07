@@ -3,7 +3,7 @@ title: Animals as beings or machines
 date: 2019-07-25T18:02:47.870Z
 draft: true
 ---
-So far I mostly wrote about motivation and meta thinking type of things. It's time to get into the meat of it. I mean I'm going to write about meat... milk, eggs and more importantly their fakes.
+This is becoming overly complicated, for most people it's enough to have a dog to start believing in animal consciousness. They can see personality, emotions, moods, memory, definitely a being that can feel pain and suffer. For sure, differences between people and dogs are quite large in some aspects. They posses smaller and much less developed brains, their ability for abstract and complex thinking is far behind ours. But as with anything else, there are many similarities and then, there are points of critical distinction and other less important distinctions. So far I mostly wrote about motivation and meta thinking type of things. It's time to get into the meat of it. I mean I'm going to write about meat... milk, eggs and more importantly their fakes.
 
 Abuse of animals on factory farms is one of the biggest challenges we are facing today. They are sentient beings with ability to feel pain. We have no way of knowing how does pain feels for them and how different is their consciousness from ours. Actually that's slightly misleading, even though we are far from certain, there is a lot of evidence pointing into particular direction. 
 
@@ -21,7 +21,7 @@ There is famous photograph of an Vietnamese monk who burned himself alive while 
 
 Burned animals would behave as an untrained human. Panicking and unable to control themselves. But the difference is, some people would say, that it only acts on the strongest stimulus, without consciousness that can make choice if trained. It can be trained, but only mechanically, responding to rewards and punishments. While humans posses this soul-ish like consciousness that oversees the whole process underneath and has basically infinite value. 
 
-This is becoming overly complicated, for most people it's enough to have a dog to start believing in animal consciousness. They can see personality, emotions, moods, memory, definitely a being that can feel pain and suffer. For sure, differences between people and dogs are quite large in some aspects. They posses smaller and much less developed brains, their ability for abstract and complex thinking is far behind ours. But as with anything else, there are many similarities and then, there are points of critical disctinction and other less important distinctions. 
+
 
 This raises a question: Is there a point of critical distinction in the nature of consciousness that makes people able to suffer and other species not? 
 
