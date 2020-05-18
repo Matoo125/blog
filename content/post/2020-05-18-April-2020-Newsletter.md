@@ -1,6 +1,6 @@
 ---
 title: "April 2020 Newsletter"
-date: 2020-05-18T19:50:36+01:00
+date: 2020-05-18T18:50:36+01:00
 draft: false
 ---
 
@@ -52,14 +52,14 @@ I could spend hours in this section, going into all sorts of details, but I want
 
 [https://covid19policywatch.org/](https://covid19policywatch.org/)
 
+# The end sooner than expected
+I wanted to write about more things, but I didn't find enough time, so for the sake of not getting stuck, I decided to go ahead and publish it like this. Below are the keywords that might be used in the future.
 
 ## Plants
 
 After several months of “planning” I have finally bought plants, and they are amazing (and still alive). 
 
-[photo]
-
-Other things I wanted to write about, but have to keep them for next month.
+[I should insert photo here]
 
 
 ## Productivity systems
