@@ -1,5 +1,4 @@
-baseURL = "https://thinkingbrain.blog/"
+baseURL = "https://matejv.com/"
 languageCode = "en-us"
-title = "Thinking Brain"
+title = "The World of Matej"
 theme = "basics"
-disqusShortname = "thinkingbrain-1"
