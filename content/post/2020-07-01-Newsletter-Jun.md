@@ -1,7 +1,7 @@
 ---
 title: "Jun 2020 Newsletter"
 date: 2020-07-01T08:50:36+01:00
-draft: true
+draft: false
 ---
 
 Another great month behind us and it's time for me to do my review of my habits and activities, and write a bit about what I found interesting. Actually, I want to talk about reviewing your habits for a while.
