@@ -2,3 +2,8 @@ baseURL = "https://matejv.com/"
 languageCode = "en-us"
 title = "Matejov blog"
 theme = "archie"
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
