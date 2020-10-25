@@ -12,4 +12,4 @@
 	url = https://github.com/siegerts/hugo-theme-basic.git
 [submodule "themes/archie"]
 	path = themes/archie
-	url = https://github.com/athul/archie
+	url = https://github.com/Matoo125/archie
