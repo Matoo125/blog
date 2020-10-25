@@ -4,8 +4,6 @@ date: 2020-10-24T13:50:36+01:00
 draft: false
 ---
 
-## Book Review: Decisive 
-
 We make hundreds of decisions every day. Hurricane of questions is going through our minds before opening our eyes in the morning. 
 
 *   Do I want to wake up now, or in 5 minutes?
