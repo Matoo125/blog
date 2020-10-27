@@ -32,6 +32,8 @@ If you are short of time, I recommending you reading the first part "Narrow Fram
 
 *As someone who enjoys independent thinking and has a strong desire to live the best life possible, I’m writing this review as a part of my attempt to explain useful ideas around rationality. I want to develop a more nuanced understanding of the material for myself by explaining it to others.  Hopefully I’ll become a better source of information and useful advice for others.  Ultimately, the goal is for everyone to be better off, and live an amazing life.*
 
+*Thanks to Jan Michelfeit, Tomas Kavka, Adéla Novotná, and others for giving me feedback on my draft. I'm very grateful for your help and support. All the mistakes are mine.*
+
 
 ## The four villains of decision making
 
