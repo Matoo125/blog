@@ -4,6 +4,11 @@ title = "Matejov blog"
 theme = "archie"
 
 [[menu.main]]
+name = "All posts"
+url = "/post"
+weight = 2
+
+[[menu.main]]
 name = "About"
 url = "/about"
 weight = 3
