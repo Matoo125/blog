@@ -2,7 +2,7 @@
 layout: blog
 title: Short reflection on my writing
 date: 2020-11-28T21:32:26.732Z
-draft: true
+draft: false
 ---
 Since beginning of this blog, I was interested in making something long-term. Collecting my thoughts and ideas across areas I care about and updating them over time. In turned out, that with my limited time, limited knowledge and limited writing skill, it was harder task than I imagined. In the end I was happy to be able write anything at all from time to time. 
 
