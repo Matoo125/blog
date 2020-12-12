@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "## My experience with Internal Family System"
+title: My experience with Internal Family System
 date: 2020-12-12T12:18:39.001Z
 draft: false
 ---
