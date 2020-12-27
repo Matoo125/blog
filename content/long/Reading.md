@@ -21,6 +21,11 @@ Afterwards I had my ups and downs, transitioned to ebooks to embrace minimalism,
 # The most important
 
 ## Many books simultaneously
+One of my first insights of reading were that to get the most value out of it, I need to read many books at once. Ideally 4-6 so that I can switch between them according to my mood. This point can be easily overlooked and justified by the statement that "I can hardly finish reading once book". My experience is, that reading one book can be harder than reading 4 books. 
+
+When reading one book, I often feel like I need time to digest, or it's not really relevant to my priorities right now. So I don't read, and that's totally normal. This limited perspective doesn't allow me to see that there are completely different worlds hidden in other books. By reading many books at once I'm able to always follow my curiosity and current needs.
+
+Another unexpected benefit is that books offer different perspectives. Often after finishing couple of chapters from one book, I start reading second book, and get totally new insight on the text from the first book. This happens even when switching from a book about decision making, to a fantasy novel. Sometime I'm surprised that seemingly unrelated texts are offering me different perspectives on the same thing.
 
 ## Anything of interest
 
@@ -48,11 +53,23 @@ The essential feature of any spoken audio-content is the ability to adjust speed
 [[ recommend audiobooks ]]
 
 ## Text to speech
+I was surprised to figure out that stunning progress was made in text-to-speech technology in recent years. The high-tech voices trained by deep learning offered by Google, Amazon, and others are cheap and accessible. The quality though still not perfect is sometimes even better that human voice in my opinion. The free voices are good enough, especially when listening on larger speed 2x-3x.
+
+[add links and apps]
 
 ## Read while listening
+If nothing else, try this technique. It was a game-changer for me. After repeatedly failing to find the beauty of speed reading, I was listening to the podcast [link] where this technique was mentioned. By engaging two senses stmultaneously it's possible to increase the focus. By decreasing mind-wandering it's possible to fully engage with the content. Here is how to do it
+- use audiobook, or TTS
+- open your book (it's good to use electronic book and make the fonts and margins smaller, so that you don't need to move your eyes so much. That allows you to increase the reading speed to 3x)
+- adjust the speed to understand 80%-90% of the content. This step is really important to keep you in the zone. If it's too easy to understand the mind will start wondering. If you understand everything, you are not stretching yourself. If you understand too little, you will be lost and confused.
+- if you want to relax go slowly, that's ok too
 
 ## Ebook reader
+One of the best purchases I have ever made. Books are heavy and take a lot of space. If you have stable home, this might not be an issue and having a full library is cool. 
 
+There are people who can read thousand pages long books on their phones. I'm not one of them. My eyes need a rest from the screen. 
+
+Cheapest models for $100 are more than enough.
 
 
 # What other people said
@@ -62,3 +79,7 @@ The essential feature of any spoken audio-content is the ability to adjust speed
 # Links and resources
 
 ## Book recommendation sources
+
+other ideas
+- exploration time (finding blogs / books / etc) is different from exploitation time (reading)
+- recommend and get recommendations
