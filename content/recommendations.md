@@ -1,15 +1,11 @@
 ---
-title: "About"
+title: "Recommendations"
 date: 2019-03-12T13:50:36+01:00
 draft: false
 
 ---
 
-Welcome to my personal blog. You can find here the thoughts my brain has produced. Some are random, others more structured and from time to time I might link to an source. 
-
-
-
-If you are looking for a better content, I can actually help you with that. Below are my recommendations for my favorite podcasts, books and tools.
+Below are the recommendations for my favorite podcasts, books and tools.
 
 ### Podcasts
 
@@ -51,6 +47,7 @@ If you are looking for a better content, I can actually help you with that. Belo
 - Replacing Guilt
 - Mother of Learning
 - Almanack of Naval Ravikant
+- Power of Habit
 - [TODO - add more books]
 
 ### Tools

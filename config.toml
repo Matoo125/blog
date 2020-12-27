@@ -1,7 +1,16 @@
 baseURL = "https://matejv.com/"
 languageCode = "en-us"
-title = "Matejov blog"
-theme = "archie"
+title = "matejv"
+copyright="Made with ❤."
+
+theme = "hugo-bearblog-fork"
+
+[markup.goldmark.renderer]
+  unsafe= true
+
+[params]
+  hideMadeWithLine=true
+
 
 [[menu.main]]
 name = "All posts"
@@ -9,6 +18,6 @@ url = "/post"
 weight = 2
 
 [[menu.main]]
-name = "About"
-url = "/about"
+name = "Recommendations"
+url = "/recommendations"
 weight = 3

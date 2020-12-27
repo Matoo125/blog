@@ -13,3 +13,9 @@
 [submodule "themes/archie"]
 	path = themes/archie
 	url = https://github.com/Matoo125/archie
+[submodule "themes/hugo-bearblog"]
+	path = themes/hugo-bearblog
+	url = https://github.com/janraasch/hugo-bearblog.git
+[submodule "themes/hugo-bearblog-fork"]
+	path = themes/hugo-bearblog-fork
+	url = https://github.com/Matoo125/hugo-bearblog
