@@ -41,6 +41,7 @@ Below are the recommendations for my favorite podcasts, books and tools.
 
 ### Books
 
+Few recommendations:
 - Sapiens
 - How to Measure Anything
 - Harry Potter and Methods of Rationality
@@ -48,12 +49,15 @@ Below are the recommendations for my favorite podcasts, books and tools.
 - Mother of Learning
 - Almanack of Naval Ravikant
 - Power of Habit
-- [TODO - add more books]
+
+More complete list of the books I read is on my [Goodreads](https://www.goodreads.com/user/show/28326786-matej-vrzala)
+
+List of all the blogs I enjoy reading can be found on my [Instapaper](https://www.instapaper.com/p/MatejM4) feed
+
 
 ### Tools
 
-[TODO]
-
+To be extended list of valuable tools
 - Anki
 - RoamResearch
 - Pomodoro
