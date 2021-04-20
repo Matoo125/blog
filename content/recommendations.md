@@ -25,6 +25,9 @@ Below are the recommendations for my favorite podcasts, books and tools.
 
 [Clearer thinking with Spencer Greenberg](https://clearerthinkingpodcast.com/)
 
+### Podcast Episodes
+[soon]
+
 ### Blogroll
 
 [Slate Star Codex](https://slatestarcodex.com/)
@@ -49,6 +52,8 @@ Few recommendations:
 - Mother of Learning
 - Almanack of Naval Ravikant
 - Power of Habit
+- How Emotions are Made
+- Precipice
 
 More complete list of the books I read is on my [Goodreads](https://www.goodreads.com/user/show/28326786-matej-vrzala)
 

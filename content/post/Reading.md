@@ -125,6 +125,7 @@ Love for reading is superpower
 ## Links and resources
 
 ### Book recommendation sources
+- [The Best Textbooks on Every Subject](https://www.lesswrong.com/posts/xg3hXCYQPJkwHyik2/the-best-textbooks-on-every-subject) !!
 - [My Recommendations](/recommendations)
 - [Tom Critchlow - List of bookshelves](https://tomcritchlow.com/wiki/books/bookshelves/)
 - [Naval Ravikant](https://www.navalmanack.com/navals-recommended-reading)
@@ -135,8 +136,8 @@ Love for reading is superpower
 ### Other links
 - [Our World In Data - Books](https://ourworldindata.org/books)
 - [Wikipedia - Books published per country per year](https://www.wikiwand.com/en/Books_published_per_country_per_year)
-[]()
-[]()
+- [How to learn soft skills](https://www.lesswrong.com/posts/ZGzDNfNCXzfx6hYAH) - contains tips for reading personal development books
+- [The 3 Books Technique for Learning a New Skilll](https://www.lesswrong.com/posts/oPEWyxJjRo4oKHzMu/the-3-books-technique-for-learning-a-new-skilll)
 []()
 <!-- 
 other ideas
