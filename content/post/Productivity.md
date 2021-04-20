@@ -5,7 +5,7 @@ draft: false
 tableOfContent: true
 ---
 # Productivity
-(Note: this is early version of this post, will require some revision)
+(Note: you are reading early version of this document)
 ## Why to be productive?
 To open a discussion of personal productivity, we needs to start by asking, why do we want to be productive in the first place. This question is important and easily overlooked. Productivity starts with caring. Everybody cares about something. I personally care about my health and well-being, and that of my friends and family. The impact my work has on the world, and so on.
 
