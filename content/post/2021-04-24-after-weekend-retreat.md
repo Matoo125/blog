@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: After weekend retreat
-date: 2020-04-24T12:18:39.001Z
+date: 2021-04-23T12:18:39.001Z
 draft: false
 ---
 After moving to Ericeira in Portugal, I have been lucky enough to find a house, walking distance from Theravada Buddhist Monastery. I have been going there for evening meditation every day for the past month and recently I have managed to spend there the whole weekend. I wrote this quick post to capture my thoughts after the experience.
