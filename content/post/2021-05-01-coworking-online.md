@@ -104,4 +104,3 @@ I consider it to be an underutilised, easy hack to boost your productivity. Some
 - 2 to 8 hours would be great
 - Some people can work for hours without breaks with regular check-in. I'd like to try to try that at some point.
 - Mostly I really like taking break each 30-60 min to walk and talk. 
-
