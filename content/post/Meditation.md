@@ -1,19 +1,8 @@
 ---
 title: "Notes on Meditation"
-date: 2020-06-20T13:50:36+01:00
+date: 2021-06-20T13:50:36+01:00
 draft: false
 ---
-
-Scope brainstorm
-- personal experience with meditation
-- what is wrong with meditation?
-- what is relationship between meditation and buddhism?
-- do I need to meditate?
-- meditation and old age, suffering and death
-- different approaches to meditation (tantra vs. sutra)
-
-breath body joy
-
 
 ## How to start if I'm total beginner?
 Probably the easiest way to start is to download one of the popular meditation apps.
